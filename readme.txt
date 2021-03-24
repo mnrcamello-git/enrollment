@@ -1,0 +1,1 @@
+Doesn't include the views and database as mentioned. I used database online diagram (https://dbdiagram.io/) to help me visualize the relational table and created a model eloquent from it which is created now in the model code.
